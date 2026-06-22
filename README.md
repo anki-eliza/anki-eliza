@@ -1,6 +1,6 @@
-<h1 align="center">
-  <span style="color:#FF69B4;">✨ Hi, I'm Ankita Mandal 👋 ✨</span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=45&duration=1&pause=9999999&color=FF69B4&center=true&vCenter=true&width=800&lines=✨+Hi%2C+I'm+Ankita+Mandal+👋+✨" />
+</p>
 <h3 align="center">Electrical Engineering Student | Data Science Enthusiast | Web3 Explorer </h3>
 
 <p align="center">
