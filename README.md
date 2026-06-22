@@ -78,6 +78,56 @@ Build intelligent systems that bridge Electronics, AI, and Real-world Applicatio
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&border_radius=15" />
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&border_radius=15" />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&border_radius=15" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+## 🎯 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+</p>
+
+## ⚡ GitHub Summary Cards
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=radical&utcOffset=5.5" />
+</p>
+
+---
+
 # 🌟 Fun Facts
 
 🎵 Classical Dancer
