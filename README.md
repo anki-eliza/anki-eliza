@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ankita Mandal</h1>
-<h3 align="center">Electrical Engineering Student | Data Science Enthusiast | Web3 Explorer</h3>
+<h3 align="center">Electrical Engineering Student | Data Science Enthusiast | Web3 Explorer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=600&lines=Electrical+Engineering+Student;IIT+Madras+BS+Data+Science+Student;AI+%7C+ML+%7C+Robotics+%7C+IoT;Signal+Processing+Enthusiast;Always+Learning+Something+New+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=600&lines=NIT+Agartala+Electrical+Engineering+Student;IIT+Madras+BS+Data+Science+Student;AI+%7C+ML+%7C+Embedded+Systems+%7C+Web3;Signal+Processing+Enthusiast;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
 
-## 🌸 About Me
+# 🌸 About Me
 
 🎓Pursuing  B.Tech in Electrical Engineering from **NIT Agartala**
 
@@ -17,9 +17,10 @@
 - Artificial Intelligence
 - Machine Learning
 - Data Science
+- Embedded Systems
 - Computer Vision
 - Signal Processing
-- Embedded Systems
+
 
 🎯 Goal:
 Build intelligent systems that bridge Electronics, AI, and Real-world Applications.
