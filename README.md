@@ -81,8 +81,7 @@ Build intelligent systems that bridge Electronics, AI, and Real-world Applicatio
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anki-eliza&show_icons=true&theme=radical&hide_border=true&border_radius=15" />
-
+ <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anki-eliza&show_icons=true&theme=radical&hide_border=true&border_radius=15&hide_rank=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anki-eliza&theme=radical&hide_border=true&border_radius=15" />
 </p>
 
