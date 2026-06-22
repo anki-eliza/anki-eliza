@@ -132,7 +132,7 @@ Build intelligent systems that bridge Electronics, AI, and Real-world Applicatio
 
 ---
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
