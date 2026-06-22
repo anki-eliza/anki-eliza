@@ -1,5 +1,30 @@
-# 💫 About Me:
-Hey, I am Ankita Mandal, currently pursuing BTech in Electrical Engineering at National Institute of Technology, Agartala. I'm also pursuing BS in Data Science and Applications from IIT Madras in hybrid mode. Besides academics, I hold a Bachelor in Music degree in Bharatnatyam classical dance.<br><br>My curiosity and passion for Artificial Intelligence, Machine Learning, Data Science, Web3 and Electrical Engineering keep me motivated to learn and grow. I aspire to explore the culmination of cutting-edge technologies and collaborate on ground-breaking research, projects and innovation that aim to serve humanity and nature.<br><br>Looking forward to connecting and collaborating on innovative projects with like-minded people.Please feel free to connect with me.
+<h1 align="center">Hi 👋, I'm Ankita Mandal</h1>
+<h3 align="center">Electrical Engineering Student | Data Science Enthusiast | Web3 Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=600&lines=Electrical+Engineering+Student;IIT+Madras+BS+Data+Science+Student;AI+%7C+ML+%7C+Robotics+%7C+IoT;Signal+Processing+Enthusiast;Always+Learning+Something+New+🚀" />
+</p>
+
+---
+
+## 🌸 About Me
+
+🎓Pursuing  B.Tech in Electrical Engineering from **NIT Agartala**
+
+📊 Pursuing BS in **Data Science and Applications** from **IIT Madras**
+
+🤖 Passionate about:
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Computer Vision
+- Signal Processing
+- Embedded Systems
+
+🎯 Goal:
+Build intelligent systems that bridge Electronics, AI, and Real-world Applications.
+
+---
 
 
 # 🌐 Socials:
