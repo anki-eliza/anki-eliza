@@ -71,7 +71,8 @@ Build intelligent systems that bridge Electronics, AI, and Real-world Applicatio
 
 ## ⚡ Embedded Systems & Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ATmega32A](https://img.shields.io/badge/ATmega32A-Microcontroller-red?style=for-the-badge)
+![AVR](https://img.shields.io/badge/AVR-Microcontrollers-red?style=for-the-badge)
+![ATmega32A](https://img.shields.io/badge/ATmega32A-MCU-blue?style=for-the-badge)
 
 ---
 
