@@ -2,7 +2,7 @@
 Hey, I am Ankita Mandal, currently pursuing BTech in Electrical Engineering at National Institute of Technology, Agartala. I'm also pursuing BS in Data Science and Applications from IIT Madras in hybrid mode. Besides academics, I hold a Bachelor in Music degree in Bharatnatyam classical dance.<br><br>My curiosity and passion for Artificial Intelligence, Machine Learning, Data Science, Web3 and Electrical Engineering keep me motivated to learn and grow. I aspire to explore the culmination of cutting-edge technologies and collaborate on ground-breaking research, projects and innovation that aim to serve humanity and nature.<br><br>Looking forward to connecting and collaborating on innovative projects with like-minded people.Please feel free to connect with me.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bloom_codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankita-mandal-eliza) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ankieliza) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anki_elizabeth) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anki_eliza) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitamandal.10h.2@gmail.com) 
 
 # 💻 Tech Stack:
